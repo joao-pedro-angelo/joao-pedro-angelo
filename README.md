@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/joao-pedro-angelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-angelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-angelo&shows_Github_logo_instead_ranklevel=true&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-angelo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
