@@ -3,7 +3,7 @@
 > Studying Java?<br>
 > Visit this: [Full RoadMap BackEnd Java](https://github.com/joao-pedro-angelo/Java-BackEnd-RoadMap)
 
-![my-profile](/imagens/my-profile.jpg)
+![my-profile](/imgs/my-profile.jpg)
 
 
 <div>
