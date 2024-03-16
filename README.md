@@ -31,7 +31,6 @@ I'm João Pedro, a Computer Science student at UFCG. I've completed 3 semesters 
 - I'm interested in Rest APIs with Java and Spring.
 - I like to learn about design patterns and programming best practices.
 - I often combine my interests with programming (e.g., designing a system around a topic I'm passionate about).
-- I share my learning journey through posts on my Instagram: [blog.developer](https://www.instagram.com/blog.developer)
 
 
 ## 🔗 Get in Touch
