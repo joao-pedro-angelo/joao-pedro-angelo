@@ -5,7 +5,7 @@
 Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Já concluí 3 períodos e estou indo para o 4º. Este é meu GitHub, onde trabalho em projetos e documentando meus estudos. No meu tempo livre, gosto de assistir documentários e torcer (sofrer) pelo Corinthians!
 
 
-## 💬 Sobre mim
+## 💬 Interesses
 - Tenho interesse em APIs Rest com Java e Spring.
 - Gosto de conhecer padrões de projeto e boas práticas de programação.
 - Misturo algo que gosto com programação (ex.: projetar algum sistema sobre um tema do meu interesse).
