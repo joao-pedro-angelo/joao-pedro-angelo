@@ -1,4 +1,4 @@
-# [pt-br] Bem-vindo! 👋
+# [pt-br] Oi! 👋
 
 
 ## 👨‍💻 Quem sou eu?
