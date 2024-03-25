@@ -2,7 +2,8 @@
 
 
 ## 👨‍💻 Quem sou eu?
-Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Na universidade, integralizei 3 períodos e estou indo para o 4º. Este é meu GitHub, onde trabalho em projetos e documento meus estudos. No tempo livre, gosto de assistir documentários e torcer (sofrer) pelo Corinthians!
+Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Na universidade, integralizei 3 períodos e estou indo para o 4º. Com os estudos e projetos, quero 
+melhorar a minha qualidade de vida e a da minha família. Este é meu GitHub, onde trabalho em projetos e documento meus estudos. No tempo livre, gosto de assistir documentários e torcer (sofrer) pelo Corinthians!
 
 
 ## 💬 Interesses
@@ -24,7 +25,8 @@ Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Na univ
 
 
 ## 👨‍💻 About Me
-I'm João Pedro, a Computer Science student at UFCG. I've completed 3 semesters and I'm heading into the 4th. This is my GitHub, where I work on projects and document my studies. In my free time, I enjoy watching documentaries and supporting for Corinthians!
+I'm João Pedro, a Computer Science student at UFCG. I've completed 3 semesters and I'm heading into the 4th. With studies and projects, I want
+improve my quality of life and that of my family. This is my GitHub, where I work on projects and document my studies. In my free time, I enjoy watching documentaries and supporting for Corinthians!
 
 
 ## 💬 Interests
