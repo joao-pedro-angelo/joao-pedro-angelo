@@ -1,8 +1,7 @@
 # [pt-br] Oi 👋
 
 ## 👨‍💻 Quem sou eu?
-Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Na universidade, integralizei 3 períodos e estou indo para o 4º. Com os estudos e projetos, quero 
-contribuir para a melhoria da qualidade de vida tanto para mim quanto para minha família. No tempo livre, gosto de assistir documentários, torcer (sofrer) pelo Corinthians e realizo minhas obrigações sempre ao som de alguma música!
+Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Na universidade, integralizei 3 períodos e estou indo para o 4º. Por meio dos estudos, quero contribuir para uma melhor qualidade de vida tanto para mim, quanto para minha família. No tempo livre, gosto de assistir documentários, torcer (sofrer) pelo Corinthians e realizo minhas obrigações sempre ao som de alguma música!
 
 ## 💬 Interesses
 - Tenho interesse em APIs Rest com Java e Spring.
