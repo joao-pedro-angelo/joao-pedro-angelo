@@ -8,6 +8,7 @@ Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Na univ
 - Gosto de conhecer padrões de projeto e boas práticas de programação.
 - Misturo algo que gosto com programação (ex.: projetar algum sistema sobre um tema do meu interesse).
 - Faço posts que documentam o que estou estudando no seguinte Instagram: [blog.developer](https://www.instagram.com/blog.developer)
+- Se você estuda ou pretende estudar Java, dá uma olhada no RoadMap que eu preparei: [RoadMap Java BackEnd](https://github.com/joao-pedro-angelo/Java-BackEnd-RoadMap)
 
 ## 🔗 Entra em contato comigo
 <div>
