@@ -25,6 +25,7 @@ Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Na univ
 I'm João Pedro, studying Computer Science at UFCG. I've finished three semesters and heading to the fourth. With my studies and projects, I wanna make life better for me and my fam. In my downtime, I dig documentaries, suffer through supporting Corinthians, and groove to some tunes while getting stuff done!
 
 ## 💬 Interests
+- Software architecture is an area that captivates me.
 - I'm interested in Rest APIs with Java and Spring.
 - I like to learn about design patterns and programming best practices.
 - I often combine my interests with programming (e.g., designing a system around a topic I'm passionate about).
