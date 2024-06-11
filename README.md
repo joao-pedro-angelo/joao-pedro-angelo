@@ -34,6 +34,9 @@ I'm João Pedro, studying Computer Science at UFCG. I've finished three semester
 - I often combine my interests with programming (e.g., designing a system around a topic I'm passionate about).
 
 ## 🔗 Get in Touch
+
+> Resume: https://lattes.cnpq.br/9454094060154650
+
 <div>
    <a href="https://instagram.com/joao.pedro.angelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
    <a href="mailto:carneiroangelojoaopedro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
