@@ -1,4 +1,4 @@
-# 👋 Oi, entra em contato comigo
+# 👋 Oi
 
 > Meu currículo Lattes: https://lattes.cnpq.br/9454094060154650
 
