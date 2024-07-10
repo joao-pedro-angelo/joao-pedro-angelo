@@ -1,16 +1,4 @@
-# Oi 👋
-
-## 👨‍💻 Quem sou eu?
-Me chamo João Pedro, sou estudante de Ciência da Computação na UFCG. Na universidade, integralizei 3 períodos e estou indo para o 4º. Por meio dos estudos, quero contribuir para uma melhor qualidade de vida tanto para mim, quanto para minha família. No tempo livre, gosto de assistir documentários, torcer (sofrer) pelo Corinthians e realizo minhas obrigações sempre ao som de alguma música!
-
-## 💬 Interesses
-- Arquitetura de Software é uma área que me cativa.
-- Tenho interesse em APIs Rest com Java e Spring.
-- Gosto de conhecer padrões de projeto e boas práticas de programação.
-- Misturo algo que gosto com programação (ex.: projetar algum sistema sobre um tema do meu interesse).
-- Se você pretende estudar Java, dá uma olhada neste RoadMap: [RoadMap Java BackEnd](https://github.com/joao-pedro-angelo/Java-BackEnd-RoadMap)
-
-## 🔗 Entra em contato comigo
+# 👋 Oi, entra em contato comigo
 
 > Meu currículo Lattes: https://lattes.cnpq.br/9454094060154650
 
